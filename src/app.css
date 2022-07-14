@@ -1,1 +1,19 @@
+:root {
+  --white: #fff;
+  --black: #333333;
+  --dark-grey: #4f4f4f;
+  --middle-grey: #828282;
+  --light-grey: #bdbdbd;
+  --accent: #eb5757;
+}
 
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--black);
+}
